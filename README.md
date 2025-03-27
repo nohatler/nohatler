@@ -2,6 +2,10 @@
 
 ## Unity 3D Developer
 
+### About Me
+I'm Max and I live in Ukraine, I develop games on Unity. Most of all I love creating atmospheric horror themes games. 
+I'm full of energy, ideas and a desire to create. Always ready to get down to work! (ﾉ´ ᵕ `)ノ 
+
 ### Games in development
 [![Below The Void](https://img.shields.io/badge/☆_Below_The_Void-000000?style=for-the-badge)](https://github.com/nohatler)<br>
 [![NOWAY](https://img.shields.io/badge/☆_NOWAY-000000?style=for-the-badge)](https://github.com/nohatler/NOWAY_short/)<br>
