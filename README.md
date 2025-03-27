@@ -4,7 +4,7 @@
 
 ### Games in development
 [![Below The Void](https://img.shields.io/badge/☆_Below_The_Void-000000?style=for-the-badge)](https://github.com/nohatler)<br>
-[![NOWAY](https://img.shields.io/badge/☆_NOWAY-000000?style=for-the-badge)](https://github.com/nohatler)<br>
+[![NOWAY](https://img.shields.io/badge/☆_NOWAY-000000?style=for-the-badge)](https://github.com/nohatler/NOWAY_short/)<br>
 [![HUSH?](https://img.shields.io/badge/☆_HUSH%3F-000000?style=for-the-badge)](https://github.com/nohatler)
 
 ### Follow Me
